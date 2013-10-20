@@ -25,7 +25,8 @@
   "author": "pjkelly",
   "license": "BSD",
   "dependencies": {
-    "fsreadfileastype": "0.0.3"
+    "fsreadfileastype": "0.0.3",
+    "underscore": ""
   },
   "devDependencies": {
     "mocha": "",
