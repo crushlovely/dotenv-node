@@ -1,5 +1,7 @@
 # DotEnv for Node.js
 
+![Build Status](https://travis-ci.org/crushlovely/dotenv-node.png)
+
 DotEnv loads environment variables from .env into your ENV.
 
 
