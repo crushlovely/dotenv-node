@@ -1,6 +1,6 @@
 {
   "name": "dotenv-node",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Loads environment variables from .env",
   "main": "lib/dotenv.js",
   "directories": {
@@ -25,7 +25,7 @@
   "author": "pjkelly",
   "license": "BSD",
   "dependencies": {
-    "fsreadfileastype": "0.0.3",
+    "fsreadfileastype": "0.0.4",
     "underscore": ""
   },
   "devDependencies": {
