@@ -1,6 +1,6 @@
 {
   "name": "dotenv-node",
-  "version": "0.0.2",
+  "version": "0.0.1",
   "description": "Loads environment variables from .env",
   "main": "lib/dotenv.js",
   "directories": {
