@@ -1,6 +1,9 @@
 # DotEnv for Node.js
 
-![Build Status](https://travis-ci.org/crushlovely/dotenv-node.png)
+[![NPM Version](http://img.shields.io/npm/v/dotenv-node.svg?style=flat)](https://www.npmjs.org/package/dotenv-node)
+[![Build Status](http://img.shields.io/travis/crushlovely/dotenv-node.svg?style=flat)](https://travis-ci.org/crushlovely/dotenv-node)
+[![Code Climate](http://img.shields.io/codeclimate/github/crushlovely/dotenv-node.svg?style=flat)](https://codeclimate.com/github/crushlovely/dotenv-node)
+[![Code Coverage](http://img.shields.io/codeclimate/coverage/github/crushlovely/dotenv-node.svg?style=flat)](https://codeclimate.com/github/crushlovely/dotenv-node)
 
 DotEnv loads environment variables from .env into your ENV.
 
